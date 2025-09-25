@@ -1,0 +1,20 @@
+TS:100000.000 INFO Starting the service
+TS:100001.000 INFO Starting the service
+TS:100002.000 INFO Starting the service
+TS:100003.000 WARNING Low disk space
+TS:100004.000 WARNING Low disk space
+TS:100005.000 ERROR Failed to connect to database
+TS:100006.000 ERROR Failed to connect to database
+TS:100007.000 ERROR Failed to connect to database
+TS:100008.000 INFO Retrying connection
+TS:100009.000 INFO Retrying connection
+TS:100010.000 INFO Retrying connection
+TS:100011.000 INFO Service started successfully
+TS:100012.000 INFO Service started successfully
+TS:100013.000 WARNING High memory usage
+TS:100014.000 WARNING High memory usage
+TS:100015.000 WARNING High memory usage
+TS:100016.000 ERROR Timeout while reading response
+TS:100017.000 ERROR Timeout while reading response
+TS:100018.000 INFO Cleanup started
+TS:100019.000 INFO Cleanup started

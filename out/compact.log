@@ -1,0 +1,8 @@
+TS: INFO Starting the service (x3, TS: 100000.000-100002.000)
+TS: WARNING Low disk space (x2, TS: 100003.000-100004.000)
+TS: ERROR Failed to connect to database (x3, TS: 100005.000-100007.000)
+TS: INFO Retrying connection (x3, TS: 100008.000-100010.000)
+TS: INFO Service started successfully (x2, TS: 100011.000-100012.000)
+TS: WARNING High memory usage (x3, TS: 100013.000-100015.000)
+TS: ERROR Timeout while reading response (x2, TS: 100016.000-100017.000)
+TS: INFO Cleanup started (x2, TS: 100018.000-100019.000)
